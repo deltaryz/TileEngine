@@ -1,6 +1,8 @@
 // Barebones "direct-connection" client.
 // To be embedded into proper webpage later.
 
+// test
+
 var socketio = io();
 var player = {
     username: null
