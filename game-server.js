@@ -1,4 +1,5 @@
 // Server software based on node.js with socket.io.
+// Also includes an express server for basic direct connection.
 
 var express = require('express');
 var app = express();
